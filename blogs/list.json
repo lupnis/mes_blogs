@@ -3,7 +3,6 @@
         "title": "my first blog",
         "author": "lupnis",
         "date": "2024/05/24",
-        "profile":"https://github.com/lupnis",
         "thumb": "https://avatars.githubusercontent.com/u/65355238?v=4",
         "abstract":"我的第一篇博客！",
         "link":"blogs?b=blogs/md/my first blog.md"
