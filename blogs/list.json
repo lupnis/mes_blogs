@@ -6,5 +6,13 @@
         "thumb": "https://avatars.githubusercontent.com/u/65355238?v=4",
         "abstract":"我的第一篇博客！",
         "link":"blogs?b=blogs/md/my first blog.md"
+    },
+    {
+        "title": "第二篇博客",
+        "author": "lupnis",
+        "date": "2024/06/17",
+        "thumb": "https://raw.githubusercontent.com/lupnis/mes_blogs/master/res/loading.gif",
+        "abstract": "slurm和singularity使用的一些笔记",
+        "link": "blogs?b=blogs/md/20240617-ssu.md"
     }
 ]
