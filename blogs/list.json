@@ -8,7 +8,7 @@
         "link":"blogs?b=blogs/md/my first blog.md"
     },
     {
-        "title": "第二篇博客",
+        "title": "Slurm & Singularity",
         "author": "lupnis",
         "date": "2024/06/17",
         "thumb": "https://raw.githubusercontent.com/lupnis/mes_blogs/master/res/loading.gif",
