@@ -6,5 +6,13 @@
         "thumb": "https://avatars.githubusercontent.com/u/65355238?v=4",
         "abstract": "我的第一篇博客！",
         "link": "blogs?b=blogs/md/my first blog.md"
+    },
+    {
+        "title": "节点装新系统",
+        "author": "lupnis",
+        "date": "2024/08/29",
+        "thumb": "https://dl.dell.com/content/guides/public/Html/dss8440_ism_pub/images/GUID-91FF37EB-1067-4723-83D7-2B48ECB4AAA2-low.jpg",
+        "abstract": "在集群因为不知名挖矿病毒全部沦陷后的重装流程记录",
+        "link": "blogs?b=blogs/md/20240829-debian12.md"
     }
 ]
