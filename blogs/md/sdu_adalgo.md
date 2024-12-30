@@ -18,7 +18,7 @@
 
 感谢大佬[Haozhe](https://github.com/sailist)的[复习总结](http://haozhe.lumo-tech.top/AdAlgo/)，和学长学姐的复习资料 ~ 
 
-**<font color=yellow>！！注意！！本复习笔记仅包含基础知识点及SAT，2SAT，3SAT，TSP，背包，划分，定点覆盖，独立集，独立任务排工，顶点覆盖！！</font>**
+**<font color=yellow>！！注意！！本复习笔记仅包含基础知识点及SAT，2SAT，3SAT，TSP，背包，划分，独立集，独立任务排工，顶点覆盖，集合覆盖！！</font>**
 
 
 # 基础概念
@@ -201,6 +201,45 @@ NP-hard 问题由图灵归约得到，有三种途径：
 ### 搜索（优化）问题
 
 如TSP
+
+# 布尔可满足性问题 (boolean SATisfiability problem, SAT)
+
+## SAT 介绍
+
+SAT 问题属于决定性问题，也是第一个被证明属于NPC的问题，1970年 Cook 证明 SAT 问题是NPC问题。即Cook定理。Cook说明若SAT多项式时间可解，则所有NP问题多项式时间可解。
+
+Cook定理证明 SAT 问题属于 NPC 问题的核心步骤：
+ 1. 证明 SAT 问题属于 NP 问题，这明显成立（给定一个真值指派，按顺序求解即可）
+ 2. 证明其他所有属于 NP 类的判定问题都可以通过某多项式变换变换为 SAT 问题
+
+## SAT 问题定义
+
+布尔变量集合$U=\left\{u_{1}, u_{2}, \cdots, u_{n}\right\}$，项集合$C=\left\{C_{1}, C_{2}, \cdots, C_{m}\right\}$，其中：
+$$
+C_{i}=\left\{u[i, 1], \cdots, u\left[i, k_{i}\right]\right\}
+\subseteq U \cup \bar{U}, \quad \bar{U}=\left\{\bar{u}_{1}, \cdots, \bar{u}_{n}\right\}
+$$
+
+询问 是否存在 $U$ 的真值指派:$U \rightarrow\{\mathrm{F}, \mathrm{T}\}$，满足
+$$
+\bigwedge_{i=1}^{m}\left(\sum_{j=1}^{k_{i}} u[i, j]\right)=\mathrm{T}
+$$
+
+## SAT 问题证明
+
+。。。
+
+# 2SAT
+
+# 3SAT
+
+# TSP
+
+# 背包
+
+# 划分
+
+
 
 
 
