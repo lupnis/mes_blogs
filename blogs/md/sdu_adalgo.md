@@ -224,7 +224,7 @@ NP-hard 问题由图灵归约得到，有三种途径：
 
 这个画出的没有边相交的图称为 $G$ 的平面嵌入。没有，也就是不存在平面嵌入的图称作非平面图。
 
-![1735698065080](https://github.com/lupnis/mes_blogs/blob/master/res/image/sdu_adalgo/1735698065080.png)
+![1735698065080](https://github.com/lupnis/mes_blogs/blob/master/res/image/sdu_adalgo/1735698065080.png?raw=true)
 
 - 图(e)为非平面图
 
@@ -253,7 +253,7 @@ $G=(V,E)$是一个图，若$G$中一条通路通过且仅通过每一个顶点�
 
 如下图中，所有灰色的点可以构成一个独立集，因为他们互相之间没有任何公共边。
 
-![图](https://github.com/sailist/AdAlgo/blob/master/GraphTheory/fig/2.png?raw=true)
+![1735698221786](https://github.com/lupnis/mes_blogs/blob/master/res/image/sdu_adalgo/1735698221786.png?raw=true)
 
 > 对于三个点组成的完全图而言，每个点自身是一个独立集（且是最大独立集）；对四个点构成的四边形图而言，对角的两个点组成一个独立集（且是最大独立集）。
 
