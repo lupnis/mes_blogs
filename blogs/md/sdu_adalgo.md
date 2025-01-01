@@ -281,7 +281,7 @@ $G=(V,E)$是一个图，若$G$中一条通路通过且仅通过每一个顶点�
 
 如下图，是一个二分图，因为点可以被分成两个点集，且每个集合内的点之间互不相邻（互相之间没有边连接）
 
-![图](https://i-blog.csdnimg.cn/blog_migrate/fda429e87f533fa6e6677b6f69ed7b8a.png)
+![1735698329582](https://github.com/lupnis/mes_blogs/blob/master/res/image/sdu_adalgo/1735698329582.png?raw=true)
 
 二分图判断一般使用染色法，即从其中一个顶点开始，将跟它邻接的点染成与其不同的颜色，如果邻接的点有相同颜色的，则说明不是二分图。每次用bfs遍历染色即可。
 
