@@ -224,7 +224,7 @@ NP-hard 问题由图灵归约得到，有三种途径：
 
 这个画出的没有边相交的图称为 $G$ 的平面嵌入。没有，也就是不存在平面嵌入的图称作非平面图。
 
-![图](https://i-blog.csdnimg.cn/blog_migrate/3b72bd661db55e2a91690828f7a32726.png)
+![1735698065080](https://github.com/lupnis/mes_blogs/blob/master/res/image/sdu_adalgo/1735698065080.png)
 
 - 图(e)为非平面图
 
